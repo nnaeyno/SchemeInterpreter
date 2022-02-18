@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "istream": "cpp",
+        "vector": "cpp",
+        "iosfwd": "cpp",
+        "__functional_base": "cpp",
+        "array": "cpp",
+        "locale": "cpp",
+        "memory": "cpp",
+        "tuple": "cpp",
+        "utility": "cpp",
+        "__hash_table": "cpp",
+        "__mutex_base": "cpp",
+        "__string": "cpp",
+        "__tree": "cpp",
+        "functional": "cpp"
+    }
+}
